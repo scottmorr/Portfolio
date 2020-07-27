@@ -1,12 +1,27 @@
 import React from "react";
+import { BrowserRouter as Router, Route } from "react-router-dom";
+
 import NavBar from './components/NavBar'
 import Footer from './components/Footer'
 import Wrapper from './components/Wrapper'
 
-import Home from './pages/home'
+import Home from './pages/Home'
+import Projects from './pages/Projects'
 
-
-
+function App() {
+    return (
+        <Router>
+            <div>
+                <NavBar />
+                <Wrapper>
+                    <Route exact path="/Home" component={Home} />
+                    <Route exact path="/Projects" component={Projects} />
+                </Wrapper >
+                <Footer />
+            </div>
+        </Router>
+    );
+}
 
 
 
