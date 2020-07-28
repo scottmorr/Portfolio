@@ -1,15 +1,13 @@
 import React, { Component } from 'react';
-// import PortfolioCard from "../components/PortfolioCard"
-import Bio from "../components/Bio"
-
-
+import homepage_logo from '../Img/homepage_logo.png'
+// import profile from "../Img/brooksfam.png"
 
 
 class Home extends Component {
     render() {
         return (
             <div>
-                <img src={process.env.PUBLIC_URL + "/assets/images/logo/exercise_wars_webtitle.png"} alt="webtitle_logo" />
+                <img src={process.env.PUBLIC_URL + "..Img/homepage_logo.png"} alt="clouds_logo" />
                 <br />
                 <h1>This is a test landing page</h1>
             </div>

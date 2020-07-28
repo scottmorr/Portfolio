@@ -1,11 +1,13 @@
 import React, { Component } from 'react';
+import Works from "../components/Works"
 
 class Projects extends Component {
     
 
     render() {
         return (
-          <div><h1> Create a Project</h1>
+          <div>
+            < Works />
           </div>
     
         );
