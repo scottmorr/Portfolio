@@ -17,7 +17,6 @@ class About extends Component {
                         < Pic />
                     </div>
                 </div>
-                <div class="container">
                     <div class="row">
                         <div class="col-sm">
                             < Links />
@@ -27,11 +26,8 @@ class About extends Component {
                         </div>
 
                     </div>
-
                 </div>
-            </div>
         )
     }
 }
-
 export default About;
