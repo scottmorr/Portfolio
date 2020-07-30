@@ -7,7 +7,7 @@ function NavBar() {
   return (
 
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
-        <NavLink className="navbar-brand"  to="/">
+        <NavLink className="navbar-brand"  to="/About">
           Scott Morrison
         </NavLink>
         <div>

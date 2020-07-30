@@ -20,7 +20,7 @@ function App() {
                     <Route exact path="/Projects" component={Projects} />
                     <Route exact path="/Contact" component={Contact} />
                 </Wrapper >
-                <Footer />
+                {/* <Footer /> */}
             </div>
         </Router>
     );
