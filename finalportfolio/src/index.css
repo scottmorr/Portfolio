@@ -33,3 +33,12 @@ h1 {
     width: 95%;
     margin-top: 25px;
 }
+.img {
+  height: 250px;
+}
+.nav {
+  text-align: center;
+}
+#linkfont {
+  text-align: center;
+}
