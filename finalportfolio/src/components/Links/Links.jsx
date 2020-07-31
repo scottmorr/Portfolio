@@ -6,28 +6,20 @@ function Links () {
 <h1>Links</h1>
 
 
-<ul class="nav flex-column">
-  <li class="nav-item">
-    <a class="nav-link active" href="https://github.com/scottmorr">Git Hub</a>
+<ul className="nav flex-column">
+  <li className="nav-item">
+    <a className="nav-link active" href="https://github.com/scottmorr">Git Hub</a>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="https://www.linkedin.com/mynetwork/">LinkedIn</a>
+  <li className="nav-item">
+    <a className="nav-link" href="https://www.linkedin.com/mynetwork/">LinkedIn</a>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="mailto: scottmorr75@gmail.com"> scottmorr75@gmail.com</a>
+  <li className="nav-item">
+    <a className="nav-link" href="mailto: scottmorr75@gmail.com"> scottmorr75@gmail.com</a>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href=" file:///C:/Users/scott/Downloads/Resume%20(2).pdf"> Resume    FIX</a>
+  <li className="nav-item">
+    <a className="nav-link" href=" file:///C:/Users/scott/Downloads/Resume%20(2).pdf"> Resume    F</a>
   </li>
 </ul>
-
-
-
-
-
-
-
-
 
 
 </div>

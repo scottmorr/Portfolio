@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Bio from "../components/Bio"
 import Links from "../components/Links"
-import Projects from "../components/Projects"
+import Works from "../components/Works"
 import Pic from "../components/Pic"
 // import flowers from "../Img/homepage_logo.png"
 class About extends Component {
@@ -19,12 +19,10 @@ class About extends Component {
                     <div className="col-sm">
                         < Bio />
                     </div>
-                    <div class="col-sm">
+                    <div className="col-sm">
                         < Pic
                         />
-                        {/* <img className= "img" src =  {flowers} alt="clouds" />  */}
-                        
-               
+                    
                     </div>
                 </div>
                     <div className="row">
@@ -32,7 +30,7 @@ class About extends Component {
                             < Links />
                         </div>
                         <div className="col-sm">
-                            < Projects />
+                            < Works />
                         </div>
 
                     </div>

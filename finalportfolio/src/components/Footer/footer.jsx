@@ -4,7 +4,7 @@ import './style.css'
 
 function Footer() {
     return <div className="footer">
-        <h1>Footer</h1>
+        <h3>Created by Scott Morrison 2020</h3>
     </div>
 }
 export default Footer

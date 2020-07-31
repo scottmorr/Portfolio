@@ -1,0 +1,23 @@
+[
+{
+    "id": 1,
+    "title": "Test Clouds",
+    "image": "/homepage_logo.png",
+    "link": "https://jahugawugasuga.github.io/password_generator/",
+    "alt":"cloud"
+  },
+  {
+    "id": 2,
+    "title": "Test Clouds",
+    "image": "/homepage_logo.png",
+    "link": "https://jahugawugasuga.github.io/password_generator/",
+    "alt":"cloud"
+  },
+  {
+    "id": 3,
+    "title": "Test Clouds",
+    "image": "/homepage_logo.png",
+    "link": "https://jahugawugasuga.github.io/password_generator/",
+    "alt":"cloud"
+  }
+]
