@@ -8,7 +8,7 @@ class Contact extends Component {
                 <div className="card border-light mb-3">
                     <div id="h1_secondary">Contact</div>
                     <hr />
-                    <div className="card-body">
+                    <div className="card-body" style = {{width: "85%", marginLeft: "5%"}}>
                         <form>
                             <div className="form-group">
                                 <label>Name</label>

@@ -28,11 +28,11 @@ import projectsJSON from "../Posts.json"
 class Portfolio extends Component {
     constructor(props) {
         super(props)
-        this.state= {
+        this.state = {
             projects: projectsJSON
         }
     }
-    
+
 
     render() {
         return (
@@ -49,25 +49,26 @@ class Portfolio extends Component {
                             <div id="h1_secondary">Portfolio</div>
                             <hr />
                         </div>
-
-                      {this.state.projects.map(project => (
+                    </div>
+                    <div className="row">
+                        {this.state.projects.map(project => (
                             <PortfolioProjects
-                               
+
                                 title={project.title}
                                 image={project.image}
                                 link={project.link}
-                                alt ={project.alt}
+                                alt={project.alt}
                             />
 
                         ))
-                    }
- 
+                        }
+
                     </div>
                 </div>
-            </div>
+            </div >
 
         )
-                  };
-                }
+    };
+}
 
 export default Portfolio

@@ -5,11 +5,9 @@ import React from "react";
 function PortfolioProjects(props) {
     return (
 
-        <div className="imgcontainer">
-            <div className="row">
-                <div className="col-lg-4 col-md-4 col-sm-4 img-responsive">
-                    <img id="password" className="img" 
-                    src={require("../../Img"+ props.image)}
+                <div className="col-lg-4 col-md-4 col-sm-4 img-responsive ">
+                    <img id="password" className="img project-image" 
+                    src={"/Img"+ props.image}
                         alt={props.alt} />
                     <div>
                         <p id="linkfont">
@@ -17,8 +15,6 @@ function PortfolioProjects(props) {
                         </p>
                     </div>
                 </div>
-            </div>
-        </div>
 
     );
 };

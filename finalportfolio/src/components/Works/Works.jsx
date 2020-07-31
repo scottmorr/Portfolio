@@ -3,12 +3,15 @@ import React from 'react'
 import './style.css'
 function Works() {
     return (
-        <div className="card" style = {{ backgroundColor: "blue", height: "300px", width: "95%",marginTop: "25px" }}>
+        <div className="card work-card" >
+                <img className="card-img-top" src={"/Img/drunks.png"} alt="Card image cap" >
+                    </img>
+                <div className="card-body d-flex align-items-center justify-content-center">
+                    <a href="/Portfolio" className="btn btn-primary">Projects</a>
+                </div>
+            </div>
 
-<h1>Projects</h1>
 
-
-        </div>
     );
 };
 

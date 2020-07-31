@@ -1,23 +1,46 @@
 [
 {
     "id": 1,
-    "title": "Test Clouds",
+    "title": "Burger Adder",
     "image": "/homepage_logo.png",
     "link": "https://jahugawugasuga.github.io/password_generator/",
-    "alt":"cloud"
+    "alt":"burger"
   },
   {
     "id": 2,
-    "title": "Test Clouds",
-    "image": "/homepage_logo.png",
+    "title": "Weather Dashboard",
+    "image": "/password_generator.png",
     "link": "https://jahugawugasuga.github.io/password_generator/",
     "alt":"cloud"
   },
   {
     "id": 3,
-    "title": "Test Clouds",
+    "title": "Password Creator",
     "image": "/homepage_logo.png",
     "link": "https://jahugawugasuga.github.io/password_generator/",
     "alt":"cloud"
-  }
-]
+  },
+
+
+  {
+      "id": 1,
+      "title": "Burger Adder",
+      "image": "/homepage_logo.png",
+      "link": "https://jahugawugasuga.github.io/password_generator/",
+      "alt":"burger"
+    },
+    {
+      "id": 2,
+      "title": "Weather Dashboard",
+      "image": "/password_generator.png",
+      "link": "https://jahugawugasuga.github.io/password_generator/",
+      "alt":"cloud"
+    },
+    {
+      "id": 3,
+      "title": "Password Creator",
+      "image": "/homepage_logo.png",
+      "link": "https://jahugawugasuga.github.io/password_generator/",
+      "alt":"cloud"
+    }
+  ]
