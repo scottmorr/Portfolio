@@ -1,9 +1,8 @@
-import React, { Component } from 'react';
-import homepage_logo from '../Img/homepage_logo.png'
+// import React, { Component } from 'react';
 
 
-class Home extends Component {
-    render() {
+/* class Home extends Component {
+  /*   render() {
         return (
             <div>
                 <img src={process.env.PUBLIC_URL + '..Img/homepage_logo.png'} alt="clouds_logo" style = {{height: "85px", width: "24%"}} />
@@ -11,9 +10,9 @@ class Home extends Component {
                 <h1>This is a test landing page</h1>
             </div>
         );
-    };
+    }; */
 
 
-}
+//} */
 
-export default Home;
+// export default Home;

@@ -3,25 +3,35 @@ import Bio from "../components/Bio"
 import Links from "../components/Links"
 import Projects from "../components/Projects"
 import Pic from "../components/Pic"
-
+// import flowers from "../Img/homepage_logo.png"
 class About extends Component {
+    constructor(props) {
+        super(props)
+        this.state = {
+
+        }
+    }
 
     render() {
         return (
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm">
+            <div className="container">
+                <div className="row">
+                    <div className="col-sm">
                         < Bio />
                     </div>
                     <div class="col-sm">
-                        < Pic />
+                        < Pic
+                        />
+                        {/* <img className= "img" src =  {flowers} alt="clouds" />  */}
+                        
+               
                     </div>
                 </div>
-                    <div class="row">
-                        <div class="col-sm">
+                    <div className="row">
+                        <div className="col-sm">
                             < Links />
                         </div>
-                        <div class="col-sm">
+                        <div className="col-sm">
                             < Projects />
                         </div>
 

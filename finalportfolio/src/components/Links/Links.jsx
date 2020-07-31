@@ -17,7 +17,7 @@ function Links () {
     <a class="nav-link" href="mailto: scottmorr75@gmail.com"> scottmorr75@gmail.com</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+    <a class="nav-link" href=" file:///C:/Users/scott/Downloads/Resume%20(2).pdf"> Resume    FIX</a>
   </li>
 </ul>
 
