@@ -11,14 +11,14 @@
     "title": "Weather Dashboard",
     "image": "/weather.jpg",
     "link": "https://scottmorr.github.io/Weather-Dashboard/",
-    "alt":"cloud"
+    "alt":"city weather"
   },
   {
     "id": 3,
     "title": "Password Creator",
     "image": "/PassWord.jpg",
     "link": "https://scottmorr.github.io/Gnerate-password/",
-    "alt":"cloud"
+    "alt":"Password"
   },
 
 
@@ -27,20 +27,20 @@
       "title": "Pantree",
       "image": "/pantree.jpg",
       "link": "https://polar-reaches-63897.herokuapp.com/",
-      "alt":"burger"
+      "alt":"Shopping list"
     },
     {
       "id": 2,
-      "title": "Fitness Tracker",
+      "title": "WorkOut Tracker",
       "image": "/fitnesstracker1.jpg",
       "link": "https://calm-island-41339.herokuapp.com/",
-      "alt":"cloud"
+      "alt":"Tracker"
     },
     {
       "id": 3,
       "title": "Historic Drunks",
       "image": "/drunks.png",
       "link": "https://scottmorr.github.io/Culturally-Historic-Drunks/",
-      "alt":"cloud"
+      "alt":"Bartender"
     }
   ]

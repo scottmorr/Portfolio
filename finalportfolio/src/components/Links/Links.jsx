@@ -18,7 +18,7 @@ function Links () {
     <a className="nav-link" href="mailto: scottmorr75@gmail.com"> scottmorr75@gmail.com</a>
   </li>
   <li className="nav-item">
-    <a className="nav-link" href=" file:///C:/Users/scott/Downloads/Resume%20(2).pdf"> Resume    F</a>
+    <a className="nav-link" href="https://www.linkedin.com/in/scott-morrison-371b9a1a1/"> Resume </a>
   </li>
 </ul>
 
