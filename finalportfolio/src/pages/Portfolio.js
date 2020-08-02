@@ -1,23 +1,4 @@
-/*import React, { Component } from 'react';
-import Works from "../components/Works"
 
-class Projects extends Component {
-    
-
-    render() {
-        return (
-          <div>
-            < Works />
-          </div>
-    
-        );
-      };
-
-
-
-
-
-     } */
 import React, { Component } from "react";
 import PortfolioProjects from "../components/PortfolioProjects"
 import projectsJSON from "../Posts.json"

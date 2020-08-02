@@ -8,6 +8,7 @@ import Wrapper from './components/Wrapper'
 import Contact from './pages/Contact'
 import About from './pages/About'
 import Portfolio from "./pages/Portfolio";
+import Congrats from "./pages/Congrats";
 function App() {
     return (
         <Router>
@@ -18,6 +19,8 @@ function App() {
                     <Route exact path="/About" component={About} />
                     <Route exact path="/Portfolio" component={Portfolio} />
                     <Route exact path="/Contact" component={Contact} />
+                    <Route exact path="/Congrats" component={Congrats} />
+
                 </Wrapper >
                 <Footer />
             </div>
