@@ -1,46 +1,44 @@
 [
-{
+  {
     "id": 1,
     "title": "Burger Adder",
     "image": "/BurgerPic.jpg",
     "link": "https://polar-stream-92173.herokuapp.com/",
-    "alt":"burger"
+    "alt": "burger"
   },
   {
     "id": 2,
     "title": "Weather Dashboard",
     "image": "/weather.jpg",
     "link": "https://scottmorr.github.io/Weather-Dashboard/",
-    "alt":"city weather"
+    "alt": "city weather"
   },
   {
     "id": 3,
     "title": "Password Creator",
     "image": "/PassWord.jpg",
     "link": "https://scottmorr.github.io/Gnerate-password/",
-    "alt":"Password"
+    "alt": "Password"
   },
-
-
   {
-      "id": 1,
-      "title": "Pantree",
-      "image": "/pantree.jpg",
-      "link": "https://polar-reaches-63897.herokuapp.com/",
-      "alt":"Shopping list"
-    },
-    {
-      "id": 2,
-      "title": "WorkOut Tracker",
-      "image": "/fitnesstracker1.jpg",
-      "link": "https://calm-island-41339.herokuapp.com/",
-      "alt":"Tracker"
-    },
-    {
-      "id": 3,
-      "title": "Historic Drunks",
-      "image": "/drunks.png",
-      "link": "https://scottmorr.github.io/Culturally-Historic-Drunks/",
-      "alt":"Bartender"
-    }
-  ]
+    "id": 1,
+    "title": "Pantree",
+    "image": "/pantree.jpg",
+    "link": "https://polar-reaches-63897.herokuapp.com/",
+    "alt": "Shopping list"
+  },
+  {
+    "id": 2,
+    "title": "WorkOut Tracker",
+    "image": "/fitnesstracker1.jpg",
+    "link": "https://calm-island-41339.herokuapp.com/",
+    "alt": "Tracker"
+  },
+  {
+    "id": 3,
+    "title": "Historic Drunks",
+    "image": "/drunks.png",
+    "link": "https://scottmorr.github.io/Culturally-Historic-Drunks/",
+    "alt": "Bartender"
+  }
+]
