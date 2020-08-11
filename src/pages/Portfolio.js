@@ -36,7 +36,7 @@ class Portfolio extends Component {
                             <PortfolioProjects
 
                                 title={project.title}
-                                image={project.image}
+                                image={process.env.PUBLIC_URL + "/Img" + project.image}
                                 link={project.link}
                                 alt={project.alt}
                             />
