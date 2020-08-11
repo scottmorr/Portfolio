@@ -7,7 +7,7 @@ function PortfolioProjects(props) {
 
                 <div className="col-lg-4 col-md-4 col-sm-4 img-responsive ">
                     <img id="password" className="img project-image" 
-                    src={"/Img"+ props.image}
+                    src={props.image}
                         alt={props.alt} />
                     <div>
                         <p id="linkfont">
